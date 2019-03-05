@@ -1,1 +1,3 @@
-console.log(11232)
+const chalk = require('chalk');
+
+console.log(chalk.blue('Hello world!'));

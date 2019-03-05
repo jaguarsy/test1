@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jaguarsy/test1/issues"
   },
-  "homepage": "https://github.com/jaguarsy/test1#readme"
+  "homepage": "https://github.com/jaguarsy/test1#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
 }
